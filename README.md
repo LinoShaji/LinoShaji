@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 394 Contributions in the Year 2022
+> 🏆 397 Contributions in the Year 2022
  > 
-> 📦 48.0 kB Used in GitHub's Storage 
+> 📦 48.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,5 +37,5 @@ Python                   2 repos             ███████░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LinoShaji/LinoShaji/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/10/2022 03:44:56 UTC
+ Last Updated on 08/10/2022 18:52:18 UTC
 <!--END_SECTION:waka-->
